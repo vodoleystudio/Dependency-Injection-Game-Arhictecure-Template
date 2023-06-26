@@ -13,7 +13,7 @@
 	
 	1 Go to ..\PangGame\Assets\Project\AppFrontendDomain\Prefabs\Levels.
 	2 Duplicate one of the levels.
-        3 Change name.
+	3 Change name.
 	4 Set the exact name of the prefab to the Id field of the LevelBase component that is already attached to it.
 	5 Open Editor scene.
 	6 You can grab the level prefab to the Editor scene and do your level design. (You can also change parameters of each obstacle or enemy like Lives, Speed, etc)
