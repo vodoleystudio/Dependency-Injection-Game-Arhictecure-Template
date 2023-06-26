@@ -1,7 +1,8 @@
 # PangGame
-==========
+==============================
 
-# Setup Boot scene ..\PangGame\Assets\Project\AppFrontendDomain\Scenes and play.
+# TUTORIAL:
+	Setup Boot scene ..\PangGame\Assets\Project\AppFrontendDomain\Scenes and play.
 	1 On the desktop LeftArrow button for moving left, RightArrow button for moving right
 	2 On mobile use a joystick
 
