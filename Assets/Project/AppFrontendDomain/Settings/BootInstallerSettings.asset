@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 041ffe0f2dd7e9f499569f792a9d8937, type: 3}
+  m_Name: BootInstallerSettings
+  m_EditorClassIdentifier: 
+  _firstSceneLoadingName: Game
+  _loadingViewGOModuleName: {fileID: 7221972342414971076, guid: e72a6c6eec6465f43bd3d6aaea0ad05d, type: 3}

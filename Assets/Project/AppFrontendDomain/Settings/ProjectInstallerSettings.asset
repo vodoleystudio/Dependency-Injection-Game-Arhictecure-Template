@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a32d1c519e216e6459d67affb20bfe5c, type: 3}
+  m_Name: ProjectInstallerSettings
+  m_EditorClassIdentifier: 
+  _autoLoadPrefabsParentName: AutoLoadPrefabs
+  _autoLoadPrefabs:
+  - {fileID: 8377808341195700928, guid: da72161722cdbca4cab8041ac1a14437, type: 3}
+  - {fileID: 51642261054604793, guid: 86297282b457c574c8815aaa5b275405, type: 3}
+  - {fileID: 8361610617255620952, guid: 4d5d18c23946f3a469e507c76f4ef23d, type: 3}
+  _mobileAutoLoadedPrefabs:
+  - {fileID: 4195642628453083083, guid: 3f431e2af6bcaea41960b7a955da4ae1, type: 3}
+  _fps: 60
