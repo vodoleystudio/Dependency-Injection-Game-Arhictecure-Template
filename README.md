@@ -16,5 +16,7 @@ that gives the possibility to create quick amount of variation of levels.
 	3 Change name.
 	4 Set the exact name of the prefab to the Id field of the LevelBase component that is already attached to it.
 	5 Open Editor scene.
-	6 You can grab the level prefab to the Editor scene and do your level design. (You can also change parameters of each obstacle or enemy like Lives, Speed, etc)
-	7 Attach the new prefab to the list of LevelsPrefabs in the LevelsModuleSettings asset that is located on ..\PangGame\Assets\Project\AppFrontendDomain\Settings
+	6 You can grab the level prefab to the Editor scene and do your level design. 
+ 	(You can also change parameters of each obstacle or enemy like Lives, Speed, etc)
+	7 Attach the new prefab to the list of LevelsPrefabs in the LevelsModuleSettings asset, 
+ 	that is located on ..\PangGame\Assets\Project\AppFrontendDomain\Settings
