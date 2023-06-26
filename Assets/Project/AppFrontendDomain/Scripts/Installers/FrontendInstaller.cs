@@ -63,6 +63,12 @@ namespace Project.AppFrontendDomain.Installers
 
             Container.Bind<RootViewGOModule>().FromComponentInNewPrefab(_rootViewGOModulePrefab).AsSingle().NonLazy();
 
+#if UNITY_ANDROID || UNITY_IOS
+            var root = Container.Resolve<RootViewGOModule>();
+            Container.BindInterfacesAndSelfTo<JoystickModule>().FromComponentInNewPrefab(_gameManagerSettings.JoystickPrefab).UnderTransform(root.HUD).AsSingle().NonLazy();
+#else
+            Container.BindInterfacesTo<KeyboardModule>().AsSingle().NonLazy();
+#endif
             Container.BindInterfacesTo<ScenesModule>().AsSingle().NonLazy();
             Container.BindInterfacesTo<SaveModule>().AsSingle().NonLazy();
 

@@ -16,3 +16,4 @@ MonoBehaviour:
   _playerBulletPrefab: {fileID: 7196815555943886358, guid: 7999f9d11446a7449acf5128ad02a0bb, type: 3}
   _bubblePrefab: {fileID: 6893733903218333493, guid: 12f4962e29e707d4c8892e8721cff834, type: 3}
   _levelsModuleSettings: {fileID: 11400000, guid: e804aa424b0b92644a1ba9bd4c442d50, type: 2}
+  _joystickPrefab: {fileID: 3881087803549984437, guid: ec536a7718376554185e4a856d5ae230, type: 3}

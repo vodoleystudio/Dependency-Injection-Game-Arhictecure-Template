@@ -342,6 +342,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _main: {fileID: 7672190421843939261}
+  _menu: {fileID: 4776328301802828438}
+  _hud: {fileID: 7357834034145200815}
 --- !u!1 &4241221762220046617
 GameObject:
   m_ObjectHideFlags: 0

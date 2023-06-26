@@ -41,15 +41,6 @@ namespace Project.AppFrontendDomain.Installers
             {
                 LoadPrefab(autoLoadPrefab, autoLoadPrefabsParent.transform);
             }
-
-#if UNITY_ANDROID || UNITY_IOS
-            foreach (var mobileAutoLoadedPrefab in _projectInstallerSettings.MobileAutoLoadedPrefabs)
-            {
-                LoadPrefab(mobileAutoLoadedPrefab, autoLoadPrefabsParent.transform);
-            }
-#else
-            Container.BindInterfacesTo<KeyboardModule>().AsSingle().NonLazy();
-#endif
         }
 
         private void LoadPrefab(GameObject loadPrefab, Transform parent)

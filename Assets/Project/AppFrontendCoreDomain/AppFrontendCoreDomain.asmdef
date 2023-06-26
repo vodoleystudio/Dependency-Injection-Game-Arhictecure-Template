@@ -2,7 +2,8 @@
     "name": "AppFrontendCoreDomain",
     "rootNamespace": "",
     "references": [
-        "GUID:75469ad4d38634e559750d17036d5f7c"
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:36a88a7d099e65e48ba34f1f93cdcf7c"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

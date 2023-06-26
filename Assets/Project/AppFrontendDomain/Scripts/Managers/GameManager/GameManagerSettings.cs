@@ -33,5 +33,10 @@ namespace Project.AppFrontendDomain.Managers
 
         [SerializeField]
         public LevelsModuleSettings LevelsModuleSettings => _levelsModuleSettings;
+
+        [SerializeField]
+        private GameObject _joystickPrefab;
+
+        public GameObject JoystickPrefab => _joystickPrefab;
     }
 }

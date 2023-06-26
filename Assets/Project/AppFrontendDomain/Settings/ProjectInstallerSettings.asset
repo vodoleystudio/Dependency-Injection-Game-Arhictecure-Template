@@ -15,8 +15,7 @@ MonoBehaviour:
   _autoLoadPrefabsParentName: AutoLoadPrefabs
   _autoLoadPrefabs:
   - {fileID: 8377808341195700928, guid: da72161722cdbca4cab8041ac1a14437, type: 3}
-  - {fileID: 51642261054604793, guid: 86297282b457c574c8815aaa5b275405, type: 3}
+  - {fileID: 515911744502404244, guid: c560c72143f026d419205515293ea734, type: 3}
   - {fileID: 8361610617255620952, guid: 4d5d18c23946f3a469e507c76f4ef23d, type: 3}
-  _mobileAutoLoadedPrefabs:
-  - {fileID: 4195642628453083083, guid: 3f431e2af6bcaea41960b7a955da4ae1, type: 3}
+  _mobileAutoLoadedPrefabs: []
   _fps: 60
