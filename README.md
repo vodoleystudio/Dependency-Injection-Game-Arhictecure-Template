@@ -6,10 +6,6 @@
 	1 On the desktop LeftArrow button for moving left, RightArrow button for moving right
 	2 On mobile use a joystick
 
-# BONUS: Levels with increased difficulty. 
-I have chosen it because the system developed with flexible levels infrastructure, 
-that gives the possibility to create quick amount of variation of levels.
-
 # You can build your own levels using the Editor scene.
 	
 	1 Go to ..\PangGame\Assets\Project\AppFrontendDomain\Prefabs\Levels.
