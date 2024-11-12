@@ -1,4 +1,4 @@
-# PangGame
+# Dependency Injection Game Arhictecure Template - PangGame
 ==============================
 
 # TUTORIAL:
