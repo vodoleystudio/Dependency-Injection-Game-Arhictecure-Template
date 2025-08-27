@@ -1,5 +1,4 @@
 # Dependency Injection Game Arhictecure Template - PangGame
-==============================
 
 # TUTORIAL:
 	Setup Boot scene ..\PangGame\Assets\Project\AppFrontendDomain\Scenes and play.
@@ -17,3 +16,13 @@
  	(You can also change parameters of each obstacle or enemy like Lives, Speed, etc)
 	7 Attach the new prefab to the list of LevelsPrefabs in the LevelsModuleSettings asset, 
  	that is located on ..\PangGame\Assets\Project\AppFrontendDomain\Settings
+
+
+<br>Find my work useful?
+<br>Your support helps me continue creating and maintaining free tools like this one.
+<br>If you'd like to help, you can support my development here - https://buymeacoffee.com/vodoleystudio
+
+<br>Thank you!
+
+<br>Created with 🧡 by https://www.vodoleystudio.com
+<br>ENJOY!
