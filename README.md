@@ -1,4 +1,4 @@
-# Dependency Injection Game Arhictecure Template - PangGame
+# DI Game Arhictecure Template - PangGame
 
 # TUTORIAL:
 	Setup Boot scene ..\PangGame\Assets\Project\AppFrontendDomain\Scenes and play.
